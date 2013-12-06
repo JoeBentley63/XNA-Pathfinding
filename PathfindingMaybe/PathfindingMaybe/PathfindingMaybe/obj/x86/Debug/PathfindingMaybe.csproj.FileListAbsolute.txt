@@ -1,0 +1,14 @@
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\PathfindingMaybe.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\PathfindingMaybe.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\PathfindingMaybe.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\PathfindingMaybe.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\Content\tile.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\Content\tile.xnb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\PathfindingMaybe.exe
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\bin\x86\Debug\PathfindingMaybe.pdb
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\PathfindingMaybe.csprojResolveAssemblyReference.cache
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\PathfindingMaybe.exe
+E:\Joe LaptopBackUp_11_9_13\Joe\Documents\Documents\Visual Studio 2010\Projects\PathfindingMaybe\PathfindingMaybe\PathfindingMaybe\obj\x86\Debug\PathfindingMaybe.pdb
